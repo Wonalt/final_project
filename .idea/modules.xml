@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/final_project.iml" filepath="$PROJECT_DIR$/.idea/final_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../top2vec/.idea/top2vec.iml" filepath="$PROJECT_DIR$/../top2vec/.idea/top2vec.iml" />
     </modules>
   </component>
 </project>
